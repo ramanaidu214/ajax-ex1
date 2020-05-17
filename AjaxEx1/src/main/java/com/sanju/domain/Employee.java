@@ -4,7 +4,7 @@ public class Employee {
 	private int empId;
 	private String empName;
 	private String address;
-	private String empCode;
+	private String empCode2;
 	
 	public int getEmpId() {
 		return empId;
